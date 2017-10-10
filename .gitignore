@@ -1,0 +1,7 @@
+/.vagrant/
+
+/wp-content/*
+!/wp-content/.gitkeep
+
+/mysql/*
+!/mysql/.gitkeep
